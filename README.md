@@ -27,4 +27,4 @@ Bootstrap을 이용한 Spring boot 게시판 만들기 예제
 ![화면 캡처 2021-03-06 181111](https://user-images.githubusercontent.com/41982054/110201731-1234fc80-7ea8-11eb-9f9e-2f22bb115415.png)
 
 
-MariaDB사용
+* MariaDB사용
